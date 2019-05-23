@@ -1,0 +1,32 @@
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard_Tests.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard_Tests.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.csproj.CopyComplete
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\FileParserNetStandard_Tests\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard_Tests.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard_Tests.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\FileParserNetStandard.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.csproj.CopyComplete
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\FileParserNetStandard_Tests\obj\Debug\FileParserNetStandard_Tests.pdb

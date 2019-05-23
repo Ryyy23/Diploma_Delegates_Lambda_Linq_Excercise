@@ -1,0 +1,32 @@
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\Delegate_Exercise.exe
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\Delegate_Exercise.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\FileParserNetStandard.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\FileParserNetStandard.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\obj\Debug\Delegate_Exercise.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\obj\Debug\Delegate_Exercise.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\obj\Debug\Delegate_Exercise.csproj.CopyComplete
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\obj\Debug\Delegate_Exercise.exe
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\obj\Debug\Delegate_Exercise.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master 2\Delegate_Exercise\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\NUnit3.TestAdapter.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\NUnit3.TestAdapter.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\nunit.engine.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\nunit.engine.api.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\Delegate_Exercise.exe
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\Delegate_Exercise.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\FileParserNetStandard.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\FileParserNetStandard.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\obj\Debug\Delegate_Exercise.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\obj\Debug\Delegate_Exercise.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\obj\Debug\Delegate_Exercise.csproj.CopyComplete
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\obj\Debug\Delegate_Exercise.exe
+\\Mac\Home\Desktop\Dip-Seminar-Delegates-Lambda-Linq_Exercises-master2\Delegate_Exercise\obj\Debug\Delegate_Exercise.pdb
